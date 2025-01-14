@@ -22,7 +22,7 @@ I developed a series of complex software projects as part of **EECS 281**, an un
 
 ### Disclaimer:
 
-In compliance with the University of Michigan's honor code, I cannot publicly share the source code. However, detailed descriptions of each project’s key functionalities and the technical concepts applied are provided above to highlight my technical expertise and problem-solving skills.
+In compliance with the University of Michigan's honor code, I cannot publicly share the source code. However, please contact me if you would like to look at the project code. A detailed descriptions of each project’s key functionalities and the technical concepts applied are provided above to highlight my technical expertise and problem-solving skills.
 
 # Project 1: Pathfinding and Search Algorithms
 
@@ -146,6 +146,9 @@ TSP is solved using multiple approaches:
 
 The project demonstrates key optimization techniques for solving TSP and MST, offering both heuristic and exact methods for finding solutions, and sets the foundation for future developments like scalability and parallel computation in large-scale instances.
 
+## Acknowledgements
+
+Special thanks to University of Michigan, my teammates and the EECS281 staffs for providing the resources and environment to build these application.
 
 
 
